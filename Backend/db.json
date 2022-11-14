@@ -1,0 +1,22 @@
+{
+    "products" : [{
+        "id" : 1, 
+        "name" : "Caneta BIC Azul",
+        "price" : 5.89 
+    }, {
+        "id" : 2, 
+        "name" : "Caneta Pilot Preta",
+        "price" : 5.90 
+    }, {
+        "id" : 3, 
+        "name" : "Caneta ParkerVerde",
+        "price" : 5.91 
+    }, 
+    {
+        "id" : 4, 
+        "name" : "Lápis Vermelho",
+        "price" : 5.92 
+    }
+        
+    ]
+}
